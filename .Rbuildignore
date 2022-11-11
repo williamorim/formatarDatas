@@ -1,0 +1,5 @@
+^formatarDatas\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+data-raw
+^data-raw$

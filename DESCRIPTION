@@ -1,0 +1,16 @@
+Package: formatarDatas
+Title: Um pacote para formatar datas
+Version: 0.0.0.9000
+Authors@R: 
+    person("William", "Amorim", , "wamorim@curso-r.com", role = c("aut", "cre", "mat"))
+Description: Um pacote com várias funções úteis para formatar datas.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    lubridate,
+    stringr
+Depends: 
+    R (>= 2.10)
+LazyData: true
